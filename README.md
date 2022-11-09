@@ -1,6 +1,5 @@
-<h1 align="center">Hi 👋, I'm Duong Van Bi</h1>
-<img align="center" alt="Codingl" width="400" height="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-### Hi there 👋<h2> I'm Shivam</h2>
+
+### Hi there 👋<h2> I'm Duong Van Bi</h2>
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
